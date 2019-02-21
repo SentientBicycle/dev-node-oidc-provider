@@ -1,4 +1,5 @@
-# oidc-provider
+# dev-oidc-provider
+This fork is only for local oidc server testing.  Using this in prod is inviting disaster.
 
 [![build][travis-image]][travis-url] [![codecov][codecov-image]][codecov-url]
 
